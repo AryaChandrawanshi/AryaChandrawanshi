@@ -27,7 +27,7 @@ Check pinned repositories below ⬇️
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** [https://www.linkedin.com/in/your-link-here ](https://www.linkedin.com/in/arya-chandrawanshi/) 
+- **LinkedIn:** https://www.linkedin.com/in/arya-chandrawanshi/
 - **Email:** aryachandrawanshi4@gmail.com   
 
 Thanks for visiting my GitHub!
